@@ -1,13 +1,14 @@
 # Student Record File Manager
 
-## Description
-A Java console-based application developed as part of the Alfido Tech Java Developer Internship.
+## Project Overview
+Student Record File Manager is a console-based Java application developed as part of the Alfido Tech Java Developer Internship. The project demonstrates Java File Handling concepts by allowing users to store and retrieve student records from a text file.
 
 ## Features
-- Add student records
-- Save records to a file
-- Read records from a file
-- Menu-driven interface
+- Add Student Records
+- Save Student Data to a File
+- Read Student Data from a File
+- Menu-Driven Interface
+- Simple and User-Friendly Design
 
 ## Technologies Used
 - Java
@@ -15,6 +16,18 @@ A Java console-based application developed as part of the Alfido Tech Java Devel
 - FileWriter
 - Scanner
 - VS Code
+- GitHub
+
+## Project Structure
+- StudentFileManager.java
+- students.txt
+- README.md
+
+## Learning Outcomes
+- Learned Java File Handling
+- Worked with FileReader and FileWriter
+- Improved understanding of file operations
+- Learned GitHub repository management
 
 ## Author
 Alquama Arsalan Khan
